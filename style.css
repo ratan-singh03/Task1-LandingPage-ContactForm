@@ -221,3 +221,7 @@ nav ul{
 }
 
 }
+.card{
+    opacity:0;
+    transform:translateY(40px);
+}
